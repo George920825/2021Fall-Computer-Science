@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>E94106151 Introduction</title>
+</head>
+<body bgcolor="#e2c2de">
+    <p>
+	<font color="#833ab4">
+	<span style="font-weight: bold; font-size:30px; font-family:serif">
+	游宗謀的自我介紹<br>
+	<img src="IMG_1990.jpg"width=250px><br>
+	</span>
+	<span style="font-weight: normal; font-size:20px; font-family:serif">
+	基本資料<br>
+	</span>
+	</font>
+    </p>
+    <p>
+	<span style="font-weight: bold; font-size:14px; font-family:serif; background-color:#afeeee">
+	<a href="https://instagram.com/ycmgeorge?r=nametag">My Instagram Profile</a><br>
+	</span>
+    </p>
+	
+	<table width="10%" border="2">
+	<tr>
+		<td>跳水照</td>
+		<td><img src="https://www.wagor.tc.edu.tw/primary/weekly/2011/2011051201/2011051201_002.JPG"width=500px></td>
+	</tr>
+	<tr>
+		<td>名字</td>
+		<td>游宗謀 ZONG-MOU, YOU</td>
+	</tr>
+	<tr>
+		<td>生日</td>
+		<td>08.25</td>
+	</tr>
+	<tr>
+		<td>Gmail</td>
+		<td>e94106151@gs.ncku.edu.tw</td>
+	</tr>
+	<tr>
+		<td>家鄉</td>
+		<td>台中</td>
+	</tr>
+        </table>
+    <p>
+    	<font color="#c13584">
+	<span style="font-weight: bold; font-size:20px; font-family:serif">
+	留下你的資料讓我聯絡你嗎?<br>
+	</span>
+	<form action="mailto:e94106151@gs.ncku.edu.tw?SUBJECT=Email_htmlhomework_Introduction"method="post" enctype="text/plain">
+		<span style="font-weight: normal; font-size:10px; font-family:serif">
+		English Name<br>
+		</span>
+		<input type="text" name=Name><br>
+		<span style="font-weight: normal; font-size:10px; font-family:serif">
+		Phone Number<br>
+		</span>
+		<input type="text" name=Phone><br>
+		<span style="font-weight: normal; font-size:10px; font-family:serif">
+		Comment in English<br>
+		</span>
+		<input type="submit" value=Send><br>
+    	</form>
+	</font>
+    </p>
+    <p>
+	<font color="#5851db">
+	<span style="font-weight: bold; font-size:14px; font-family:serif; background-color:#afeeee">
+	老師：請舉一例說明熱漲冷縮的現象<br>
+	學生：寒假4星期、暑假8星期...<br>
+	</span>
+	</font>
+    </p>
+    <p>
+	<font color="#833ab4">
+	<span style="font-weight: bold; font-size:20px; font-family:serif">
+	我畫的龍蝦<br>
+	<img src="FDA9B4CD-150A-4E97-8E1C-A3D6667C3596.jpg"width=250px><br>
+	</span>
+	</font>
+    </p>
+</body>
+</html>
